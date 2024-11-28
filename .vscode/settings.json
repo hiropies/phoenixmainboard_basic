@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "bmi088driver.h": "c",
+        "usb_device.h": "c",
+        "cmsis_os.h": "c",
+        "main.h": "c",
+        "freertos.h": "c"
+    }
+}
